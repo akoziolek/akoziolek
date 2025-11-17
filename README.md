@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm learning JavaScript and C#, focusing on improving my problem-solving and development skills.<br>🎯I want to explore how machine learning can be applied to image processing and create my own website from scratch.</p>
+<p align="left">📚 I'm learning React and C#, focusing on improving my problem-solving and development skills.</p>
 
 ###
 
