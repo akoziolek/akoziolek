@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm learning React and C#, focusing on improving my problem-solving and development skills.</p>
+<p align="left">📚 Currently I'm learning React and C#, focusing on improving my problem-solving and development skills.</p>
 
 ###
 
